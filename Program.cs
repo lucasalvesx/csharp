@@ -1,4 +1,5 @@
 ﻿//Primeiro, declaram-se as variáveis
+
 //String é o tipo da variável
 string Nome, Sobrenome;
 
