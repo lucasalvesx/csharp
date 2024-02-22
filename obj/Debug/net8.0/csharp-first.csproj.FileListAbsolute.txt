@@ -12,3 +12,4 @@ C:\Users\LuLu\Desktop\projetos\csharp-first\obj\Debug\net8.0\refint\csharp-first
 C:\Users\LuLu\Desktop\projetos\csharp-first\obj\Debug\net8.0\csharp-first.pdb
 C:\Users\LuLu\Desktop\projetos\csharp-first\obj\Debug\net8.0\csharp-first.genruntimeconfig.cache
 C:\Users\LuLu\Desktop\projetos\csharp-first\obj\Debug\net8.0\ref\csharp-first.dll
+C:\Users\LuLu\Desktop\projetos\csharp-first\obj\Debug\net8.0\csharp-first.sourcelink.json
